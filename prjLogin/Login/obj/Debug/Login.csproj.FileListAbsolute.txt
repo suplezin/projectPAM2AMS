@@ -1,0 +1,93 @@
+F:\-DS\Login\Login\bin\Debug\Login.exe.config
+F:\-DS\Login\Login\bin\Debug\Login.exe
+F:\-DS\Login\Login\bin\Debug\Login.pdb
+F:\-DS\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+F:\-DS\Login\Login\obj\Debug\Login.Form1.resources
+F:\-DS\Login\Login\obj\Debug\Login.Properties.Resources.resources
+F:\-DS\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+F:\-DS\Login\Login\obj\Debug\Login.exe
+F:\-DS\Login\Login\obj\Debug\Login.pdb
+D:\-DS\Login\Login\bin\Debug\Login.exe.config
+D:\-DS\Login\Login\obj\Debug\Login.exe
+D:\-DS\Login\Login\obj\Debug\Login.pdb
+D:\-DS\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\-DS\Login\Login\obj\Debug\Login.Form1.resources
+D:\-DS\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\-DS\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\-DS\Login\Login\obj\Debug\Login.Form2.resources
+D:\-DS\Login\Login\bin\Debug\Login.exe
+D:\-DS\Login\Login\bin\Debug\Login.pdb
+C:\Users\22062\Desktop\Login\Login\bin\Debug\Login.exe.config
+C:\Users\22062\Desktop\Login\Login\obj\Debug\Login.exe
+C:\Users\22062\Desktop\Login\Login\obj\Debug\Login.pdb
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.Form1.resources
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.Form2.resources
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.Form3.resources
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.exe
+D:\Escola\Aulas\Fatec\2023\DS\Editar ou fazer do zero\Login\obj\Debug\Login.pdb
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\bin\Debug\Login.exe.config
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.exe
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.pdb
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\bin\Debug\Login.exe
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\bin\Debug\Login.pdb
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.Form1.resources
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.Form2.resources
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.Form3.resources
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\22062\Desktop\Editar ou fazer do zero\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.frmTelaLgin.resources
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.frmMenu.resources
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.frmCadrastoCliente.resources
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.exe
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.pdb
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\bin\Debug\Login.exe.config
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\bin\Debug\Login.exe
+D:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\bin\Debug\Login.pdb
+C:\Users\22062\Desktop\Login\bin\Debug\Login.exe.config
+C:\Users\22062\Desktop\Login\obj\Debug\Login.exe
+C:\Users\22062\Desktop\Login\obj\Debug\Login.pdb
+C:\Users\22062\Desktop\Login\bin\Debug\Login.exe
+C:\Users\22062\Desktop\Login\bin\Debug\Login.pdb
+C:\Users\22062\Desktop\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\22062\Desktop\Login\obj\Debug\Login.frmTelaLgin.resources
+C:\Users\22062\Desktop\Login\obj\Debug\Login.frmMenu.resources
+C:\Users\22062\Desktop\Login\obj\Debug\Login.frmCadrastoCliente.resources
+C:\Users\22062\Desktop\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\22062\Desktop\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\22062\Desktop\prjLogin\Login\bin\Debug\Login.exe.config
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.exe
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.pdb
+C:\Users\22062\Desktop\prjLogin\Login\bin\Debug\Login.exe
+C:\Users\22062\Desktop\prjLogin\Login\bin\Debug\Login.pdb
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.frmTelaLgin.resources
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.frmMenu.resources
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.frmCadrastoCliente.resources
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\bin\Debug\Login.exe.config
+E:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.exe
+E:\Escola\Aulas\Fatec\2023\DS\prjLogin\Login\obj\Debug\Login.pdb
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\bin\Debug\Login.exe.config
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\bin\Debug\Login.exe
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\bin\Debug\Login.pdb
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.frmTelaLgin.resources
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.frmMenu.resources
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.frmCadrastoCliente.resources
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.frmCadPedido.resources
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.exe
+C:\Users\ETEC_DANS\Desktop\prjLogin\Login\obj\Debug\Login.pdb
+C:\Users\22062\Desktop\prjLogin\Login\obj\Debug\Login.frmCadPedido.resources
